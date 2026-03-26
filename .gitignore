@@ -1,0 +1,16 @@
+.idea/
+.pg_local_test/
+.venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.env
+wallet_api.egg-info/
+chrome-profile/
+edge-profile/
+*.pyc
+*.pyo
+*.pyd
