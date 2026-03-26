@@ -161,14 +161,5 @@ curl -X POST http://localhost:8000/api/v1/wallets/4fcb5f4b-0d5b-4f66-8a76-1b7d36
 - Валютная модель не вводится.
 - История операций не сохраняется отдельной сущностью.
 
-## Публикация на GitHub
+ -u origin main
 
-Репозиторий готов к публикации. Для выгрузки:
-
-```bash
-git init
-git add .
-git commit -m "Initial wallet API implementation"
-git remote add origin <your-repository-url>
-git push -u origin main
-```
